@@ -1,4 +1,5 @@
 # EO Project
+This project made by Oğuzhan KIR and Eren Sargın
 
 # Getting Started with Create React App
 
